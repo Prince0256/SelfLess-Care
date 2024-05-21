@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448098762497",
+    "project_id": "selfless-care-backend-67628",
+    "storage_bucket": "selfless-care-backend-67628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448098762497:android:fcbe42bc707fa934126500",
+        "android_client_info": {
+          "package_name": "com.example.selfless_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKaTIYjcgU7p4YMNpmg8YGrCBywMXFurE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

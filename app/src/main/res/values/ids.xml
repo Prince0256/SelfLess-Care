@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Video_view" type="id" />
+    <item name="editTextRegMobileNumber" type="id" />
+    <item name="buttonSendOTP" type="id" />
+    <item name="buttonResetPassword" type="id" />
+    <item name="buttonForgetPassword" type="id" />
+</resources>

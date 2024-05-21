@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Shopping Cart Body -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M3,2h3l3,14h12v2h-16z" />
+
+    <!-- Shopping Cart Handle -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M9,22c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM19,22c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2z" />
+
+    <!-- Order Summary Elements -->
+    <text
+        android:text="1"
+        android:textColor="#FFFFFFFF"
+        android:textSize="10sp"
+        android:typeface="sans"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:x="6dp"
+        android:y="16dp" />
+
+    <text
+        android:text="$50"
+        android:textColor="#FFFFFFFF"
+        android:textSize="10sp"
+        android:typeface="sans"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:x="16dp"
+        android:y="16dp" />
+
+</vector>
